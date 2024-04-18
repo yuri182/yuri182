@@ -76,13 +76,14 @@
   </tr>
   <tr>
     <td width="100" align="center"><sup>한국어</sup><br><img width="40" src="icon/kor.svg"></td>
+    <td width="100" align="center"><sup>suomi</sup><br><img width="40" src="icon/fin.svg"></td>
     <td colspan="4"></td>
   </tr>
   <tr>
     <td colspan="5"><b>Constructed Languages</b></td>
   </tr>
   <tr>
-    <td width="80" align="center"><sup>None</sup></td>
+    <td width="100" align="center"><sup>qilxaléh</sup><br><img width="40" src="icon/cl_sha.svg"></td>
     <td colspan="4"></td>
   </tr>
   <tr>
@@ -90,8 +91,8 @@
     <td colspan="5"><b>Computer Languages</b></td>
   </tr>
   <tr>
-    <td width="100" align="center"><sup>C#</sup><br><img width="40" src="icon/scss.svg"></td>
-    <td width="100" align="center"><sup>Java</sup><br><img width="40" src="icon/scss.svg"></td>
+    <td width="100" align="center"><sup>C#</sup><br><img width="40" src="icon/csharp.svg"></td>
+    <td width="100" align="center"><sup>Java</sup><br><img width="40" src="icon/java.svg"></td>
     <td colspan="3"></td>
   </tr>
   <tr>
