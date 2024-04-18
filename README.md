@@ -12,10 +12,7 @@
     <td colspan="5"><b>Languages</b></td>
   </tr>
   <tr>
-    <td width="80" align="center"><sup>TypeScript</sup><br><img width="40" src="icon/typescript.svg"></td>
-    <td width="80" align="center"><sup>Ruby</sup><br><img width="40" src="icon/ruby.svg"></td>
-    <td width="80" align="center"><sup>HTML</sup><br><img width="40" src="icon/html.svg"></td>
-    <td width="80" align="center"><sup>SCSS</sup><br><img width="40" src="icon/sass.svg"></td>
+    <td width="80" align="center"><sup>None</sup></td>
     <td colspan="1"></td>
   </tr>
   <tr>
