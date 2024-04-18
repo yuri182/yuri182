@@ -8,8 +8,8 @@
 </div>
 <table align="center">
   <tr>
-    <td rowspan="2"><b>Mother</b></td>
-    <td colspan="5"><b>Languages</b></td>
+    <td width="100" rowspan="2"><b>Mother</b></td>
+    <td width="500" colspan="5"><b>Languages</b></td>
     <tr>
     <td width="100" align="center"><sup>日本語</sup><br><img width="40" src="icon/jpn.svg"></td>
     <td colspan="4"></td>
