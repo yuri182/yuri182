@@ -15,16 +15,15 @@
     <td rowspan="2"><b>Intermediate</b></td>
   </tr>
   <tr>
-    <td width="100" align="center"><sup>Rhinoceros</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>Studio One</sup><br><img width="40" src="material/JS.svg"></td>
     <td width="100" align="center"><sup>Premiere Pro</sup><br><img width="40" src="material/JS.svg"></td>
     <td width="100" align="center"><sup>After Effects</sup><br><img width="40" src="material/JS.svg"></td>
-    <td width="100" align="center"><sup>Studio One</sup><br><img width="40" src="material/JS.svg"></td>
-    <td colspan="1"></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
   <tr>
-    <td width="100" align="center"><sup>SCSS</sup><br><img width="40" src="material/sass.svg"></td>
+    <td width="100" align="center"><sup>Rhinoceros</sup><br><img width="40" src="material/JS.svg"></td>
     <td colspan="4"></td>
   </tr>
 </table>
