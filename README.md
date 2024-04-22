@@ -8,9 +8,7 @@
   <tr>
     <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/adobe_ai.svg"></td>
     <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/adobe_ps.svg"></td>
-    <td width="100" align="center"><sup></sup></td>
-    <td width="100" align="center"><sup></sup></td>
-    <td width="100" align="center"><sup></sup></td>
+    <td width="100" align="center" colspan="3"><sup></sup></td>
   </tr>
 
   <tr>
