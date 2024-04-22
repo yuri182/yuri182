@@ -6,8 +6,8 @@
     <td rowspan="2"><b>Proficient</b></td>
   </tr>
   <tr>
-    <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/html.svg"></td>
-    <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/css.svg"></td>
+    <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/adobe_ai.svg"></td>
+    <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/adobe_ps.svg"></td>
     <td colspan="3"></td>
   </tr>
 
@@ -15,15 +15,24 @@
     <td rowspan="2"><b>Intermediate</b></td>
   </tr>
   <tr>
-    <td width="100" align="center"><sup>Studio One</sup><br><img width="40" src="material/JS.svg"></td>
-    <td width="100" align="center"><sup>Premiere Pro</sup><br><img width="40" src="material/JS.svg"></td>
-    <td width="100" align="center"><sup>After Effects</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>Studio One</sup><br><img width="40" src="material/studioOne5.png"></td>
+    <td width="100" align="center"><sup>Premiere Pro</sup><br><img width="40" src="material/adobe_pr.svg"></td>
+    <td width="100" align="center"><sup>After Effects</sup><br><img width="40" src="material/adobe_ae.svg"></td>
     <td colspan="2"></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Learning</b></td>
+  </tr>
   <tr>
-    <td width="100" align="center"><sup>Rhinoceros</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>Rhinoceros</sup><br><img width="40" src="material/rhino7.png"></td>
+    <td colspan="4"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Dabble</b></td>
+  </tr>
+  <tr>
+    <td width="100" align="center"><sup>InDesign</sup><br><img width="40" src="material/adobe_id.svg"></td>
+    <td width="100" align="center"><sup>XD</sup><br><img width="40" src="material/adobe_xd.svg"></td>
     <td colspan="4"></td>
   </tr>
 </table>
