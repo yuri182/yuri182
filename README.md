@@ -50,7 +50,7 @@
   </tr>
   </tr>
   <tr>
-    <td rowspan="6"><b>Medium</b></td>
+    <td rowspan="4"><b>Intermediate</b></td>
     <td colspan="5"><b>Computer Languages</b></td>
   </tr>
   <tr>
@@ -65,15 +65,9 @@
     <td width="100" align="center"><sup>None</sup><br></td>
     <td colspan="4"></td>
   </tr>
+
   <tr>
-    <td colspan="5"><b>Constructed Languages</b></td>
-  </tr>
-  <tr>
-    <td width="100" align="center"><sup>None</sup></td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td rowspan="6"><b>Learning</b></td>
+    <td rowspan="4"><b>Learning</b></td>
     <td colspan="5"><b>Computer Languages</b></td>
   </tr>
   <tr>
@@ -91,14 +85,7 @@
     <td colspan="1"></td>
   </tr>
   <tr>
-    <td colspan="5"><b>Constructed Languages</b></td>
-  </tr>
-  <tr>
-    <td width="100" align="center"><sup>None</sup></td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td rowspan="6"><b>Dabble</b></td>
+    <td rowspan="4"><b>Dabble</b></td>
     <td colspan="5"><b>Computer Languages</b></td>
   </tr>
   <tr>
@@ -111,37 +98,18 @@
   <tr>
     <td width="100" align="center"><sup>한국어</sup><br><img width="40" src="material/kor.svg"></td>
     <td width="100" align="center"><sup>suomi</sup><br><img width="40" src="material/fin.svg"></td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td colspan="5"><b>Constructed Languages</b></td>
-  </tr>
-  <tr>
     <td width="100" align="center"><sup>qilxaléh</sup><br><img width="40" src="material/ziphil.svg"></td>
-    <td colspan="4"></td>
+    <td colspan="3"></td>
   </tr>
+  
   <tr>
-    <td rowspan="6"><b>Interested</b></td>
+    <td rowspan="2"><b>Interested</b></td>
     <td colspan="5"><b>Computer Languages</b></td>
   </tr>
   <tr>
     <td width="100" align="center"><sup>C#</sup><br><img width="40" src="material/csharp.svg"></td>
     <td width="100" align="center"><sup>Java</sup><br><img width="40" src="material/java.svg"></td>
     <td colspan="3"></td>
-  </tr>
-  <tr>
-    <td colspan="5"><b>Languages</b></td>
-  </tr>
-  <tr>
-    <td width="100" align="center"><sup>None</sup></td>
-    <td colspan="4"></td>
-  </tr>
-  <tr>
-    <td colspan="5"><b>Constructed Languages</b></td>
-  </tr>
-  <tr>
-    <td width="100" align="center"><sup>None</sup></td>
-    <td colspan="4"></td>
   </tr>
 </table>
 
