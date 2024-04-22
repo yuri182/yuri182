@@ -1,5 +1,36 @@
 <div align="center">
-  <h3>— Languages Information —</h3>
+  <h3>— Skills —</h3>
+</div>
+<table align="center">
+  <tr>
+    <td rowspan="2"><b>Proficient</b></td>
+  </tr>
+  <tr>
+    <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/html.svg"></td>
+    <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/css.svg"></td>
+    <td colspan="3"></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"><b>Intermediate</b></td>
+  </tr>
+  <tr>
+    <td width="100" align="center"><sup>Rhinoceros</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>Premiere Pro</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>After Effects</sup><br><img width="40" src="material/JS.svg"></td>
+    <td width="100" align="center"><sup>Studio One</sup><br><img width="40" src="material/JS.svg"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Learning</b></td>
+  <tr>
+    <td width="100" align="center"><sup>SCSS</sup><br><img width="40" src="material/sass.svg"></td>
+    <td colspan="4"></td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>— Language Skills —</h3>
 </div>
 <table align="center">
   <tr>
