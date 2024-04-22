@@ -5,7 +5,7 @@
   <tr>
     <td rowspan="2"><b>Proficient</b></td>
   </tr>
-  <tr>
+  <tr colspan="5">
     <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/adobe_ai.svg"></td>
     <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/adobe_ps.svg"></td>
     <td colspan="3"></td>
