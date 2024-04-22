@@ -1,4 +1,8 @@
 <div align="center">
+  <em>Ich bin...<br><s><small>I started learning Deutsch in Duolingo for less than half years.<br>However, it's not that I can use English well.<br>Those sentences are translated by Google Translate...</small></s><br>なんとなく雰囲気的に英語がいいかなと思って英語で記述してるだけです。<br>ドイツ語ができるようになってきたらドイツ語に書き換えます。たぶん。</em>
+  <h3>I've been working as a graphic designer for over a year.</h3>
+</div>
+<div align="center">
   <h3>— Skills —</h3>
 </div>
 <table align="center">
