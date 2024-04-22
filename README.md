@@ -1,11 +1,19 @@
+<style>
+.uooo table {
+    width: 100%;
+    margin:  auto; 
+}
+</style>
+
 <div align="center">
   <h3>— Skills —</h3>
 </div>
+<div class="uooo">
 <table align="center">
   <tr>
-    <td rowspan="2"><b>Proficient</b></td>
+    <td rowspan="2" colspan="1"><b>Proficient</b></td>
   </tr>
-  <tr colspan="5">
+  <tr>
     <td width="100" align="center"><sup>Illustrator</sup><br><img width="40" src="material/adobe_ai.svg"></td>
     <td width="100" align="center"><sup>Photoshop</sup><br><img width="40" src="material/adobe_ps.svg"></td>
     <td colspan="3"></td>
@@ -36,6 +44,7 @@
     <td colspan="4"></td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <h3>— Language Skills —</h3>
